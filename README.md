@@ -1,10 +1,14 @@
-> ⚠️ **Early Stage & Experimental** - This project is in very early development and should be considered experimental.
+> ⚠️ **Early Stage & Experimental** - This project is in early development and should be considered experimental.
 
-Using [runmat-embed](https://github.com/magland/runmat-embed), you can embed Matlab scripts in markdown, and when rendered on GitHub pages, they become editable and runnable via [RunMat](https://runmat.org).
+# RunMat Embed Example
 
-Here's an example:
+This repository demonstrates how to embed interactive MATLAB scripts in Markdown files using [runmat-embed](https://github.com/magland/runmat-embed). When rendered on GitHub Pages, the embedded scripts become editable and executable directly in the browser via [RunMat](https://runmat.org).
 
-* Rendered: [example1](https://magland.github.io/runmat-embed-example/example1)
-* Source: [example1.md](./example1.md)
+## Example
 
-[Here are some other ways you can embed RunMat in websites.](https://github.com/magland/runmat-embed/tree/main/examples)
+* **Rendered**: [example1](https://magland.github.io/runmat-embed-example/example1)
+* **Source**: [example1.md](./example1.md)
+
+## Additional Resources
+
+For more ways to embed RunMat via runmat-embed in websites, see the [runmat-embed examples](https://github.com/magland/runmat-embed/tree/main/examples).

@@ -7,7 +7,7 @@ This repository demonstrates how to embed interactive MATLAB scripts in Markdown
 ## Example
 
 * **Rendered**: [example1](https://magland.github.io/runmat-embed-example/example1)
-* **Source**: [example1.md](./example1.md)
+* **Source**: [example1.md](https://raw.githubusercontent.com/magland/runmat-embed-example/refs/heads/main/example1.md)
 
 ## Additional Resources
 
